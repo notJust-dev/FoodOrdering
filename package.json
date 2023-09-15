@@ -18,6 +18,7 @@
     "@react-navigation/material-top-tabs": "^6.6.3",
     "@react-navigation/native": "^6.0.2",
     "@supabase/supabase-js": "^2.33.2",
+    "@tanstack/react-query": "^4.35.3",
     "dayjs": "^1.11.9",
     "expo": "~49.0.10",
     "expo-crypto": "~12.4.1",
@@ -25,6 +26,7 @@
     "expo-image-picker": "~14.3.2",
     "expo-linking": "~5.0.2",
     "expo-router": "^2.0.5",
+    "expo-secure-store": "~12.3.1",
     "expo-splash-screen": "~0.20.5",
     "expo-status-bar": "~1.6.0",
     "expo-system-ui": "~2.4.0",
@@ -39,8 +41,7 @@
     "react-native-screens": "~3.22.0",
     "react-native-tab-view": "^3.5.2",
     "react-native-url-polyfill": "^2.0.0",
-    "react-native-web": "~0.19.6",
-    "expo-secure-store": "~12.3.1"
+    "react-native-web": "~0.19.6"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
